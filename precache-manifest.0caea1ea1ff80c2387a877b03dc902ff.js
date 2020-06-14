@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7e3685f367fd866c66588463483848f9",
+    "revision": "be42db3710f48820c36266752b9ed865",
     "url": "/react-pactice-website-1/index.html"
   },
   {
-    "revision": "ed2f5eb4e458c7500907",
+    "revision": "778af627d0953fd2bac7",
     "url": "/react-pactice-website-1/static/css/main.539a9694.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-pactice-website-1/static/js/2.06397c7f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ed2f5eb4e458c7500907",
-    "url": "/react-pactice-website-1/static/js/main.751ad6c6.chunk.js"
+    "revision": "778af627d0953fd2bac7",
+    "url": "/react-pactice-website-1/static/js/main.57bd1d31.chunk.js"
   },
   {
     "revision": "dc023ff28c4228e1f204",
