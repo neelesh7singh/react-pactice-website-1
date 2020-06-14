@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-pactice-website-1/static/css/main.539a9694.chunk.css",
+    "main.js": "/react-pactice-website-1/static/js/main.751ad6c6.chunk.js",
+    "main.js.map": "/react-pactice-website-1/static/js/main.751ad6c6.chunk.js.map",
+    "runtime-main.js": "/react-pactice-website-1/static/js/runtime-main.0498d9ff.js",
+    "runtime-main.js.map": "/react-pactice-website-1/static/js/runtime-main.0498d9ff.js.map",
+    "static/js/2.06397c7f.chunk.js": "/react-pactice-website-1/static/js/2.06397c7f.chunk.js",
+    "static/js/2.06397c7f.chunk.js.map": "/react-pactice-website-1/static/js/2.06397c7f.chunk.js.map",
+    "index.html": "/react-pactice-website-1/index.html",
+    "precache-manifest.8851715440b924d6351ccbb5dbade112.js": "/react-pactice-website-1/precache-manifest.8851715440b924d6351ccbb5dbade112.js",
+    "service-worker.js": "/react-pactice-website-1/service-worker.js",
+    "static/css/main.539a9694.chunk.css.map": "/react-pactice-website-1/static/css/main.539a9694.chunk.css.map",
+    "static/js/2.06397c7f.chunk.js.LICENSE.txt": "/react-pactice-website-1/static/js/2.06397c7f.chunk.js.LICENSE.txt",
+    "static/media/arrow-left.f9a44e1c.svg": "/react-pactice-website-1/static/media/arrow-left.f9a44e1c.svg",
+    "static/media/arrow-right.dc372a07.svg": "/react-pactice-website-1/static/media/arrow-right.dc372a07.svg",
+    "static/media/curology-min.png": "/react-pactice-website-1/static/media/curology-min.e84c2055.png",
+    "static/media/lumin-min.png": "/react-pactice-website-1/static/media/lumin-min.379bad94.png",
+    "static/media/up-arrow-circle.d6c4e78d.svg": "/react-pactice-website-1/static/media/up-arrow-circle.d6c4e78d.svg",
+    "static/media/yourspace-min.png": "/react-pactice-website-1/static/media/yourspace-min.5f9e3077.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0498d9ff.js",
+    "static/js/2.06397c7f.chunk.js",
+    "static/css/main.539a9694.chunk.css",
+    "static/js/main.751ad6c6.chunk.js"
+  ]
+}
